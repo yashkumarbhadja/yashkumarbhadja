@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Here are some ideas to get you started:
-- 👁 I’m currently looking for 
+- 👁 I’m currently looking for Python or Cybersecurity job
 - 🔭 I’m currently working on freecodecamp projects
 - 🌱 I’m currently learning javascript and python
 - 🤔 I’m looking for help to get entry level job
